@@ -1,6 +1,0 @@
-main :-
-    write('Please enter your name: '),
-    read(user_input, UserInput),
-    format('Hello ~w', [UserInput]), nl.
-
-
